@@ -2,6 +2,8 @@
 
 MATLAB에서 생성한 분석 결과(신호 처리, 이상 탐지, 품질 지표)를 JSON 형태로 전달받아 ApexCharts로 시각화하는 Vite 기반 프론트엔드 예시입니다.
 
+![](./matlab-dashboard.png)
+
 ## 포함된 시각화 예시
 
 - 진동 RMS 시계열 추세 (Line)
